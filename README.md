@@ -1,6 +1,6 @@
 # Hiragana Guess
 
-Quiz to test my memory on plain japanse hiragana.
+Quiz to test my memory on plain japanese hiragana.
 
 ## TODO
 
